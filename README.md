@@ -2,8 +2,8 @@
 # Bookstore Database Management System
 
 ## Group Members
--Amahle Olwethu Mathebula
--Kelvin Asiago
+- Amahle Olwethu Mathebula
+- Kelvin Asiago
 - Cedrick Moloko Sepaela  
   
 
