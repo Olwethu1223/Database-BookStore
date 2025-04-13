@@ -1,5 +1,7 @@
 # Database-BookStore
 # Bookstore Database Management System
+## Group Name
+- Schema Squad
 
 ## Group Members
 - Amahle Olwethu Mathebula
