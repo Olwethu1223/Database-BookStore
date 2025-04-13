@@ -27,5 +27,5 @@ This project involves designing and implementing a relational database system fo
 
 ## Database Structure
 
-- Tables include: `Books`, `Authors`, `Categories`, `Customers`, `Orders`, `OrderItems`, `Users`
+- Tables include: `Books`, `Authors`, `Categories`, `Customers`, `Orders`, `OrderItems`, `Users` 
 - Relationships between tables are established using primary and foreign keys.
